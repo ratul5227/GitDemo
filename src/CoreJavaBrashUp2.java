@@ -39,7 +39,8 @@ public class CoreJavaBrashUp2 {
 				Object data = NewArr2.get(1); 
 				System.out.println(data);
 		
-		
+				System.out.println("This is print for git 4");
+				System.out.println("This is print for git 5");
 			
 
 	}
