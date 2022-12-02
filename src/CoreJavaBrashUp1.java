@@ -69,6 +69,7 @@ public class CoreJavaBrashUp1 {
 		System.out.println("This is print for git 3");
 		
 		System.out.println("This is the code for development branch");
+		System.out.println("This is the code for development branch");
 				
 
 	}
